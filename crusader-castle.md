@@ -4,6 +4,29 @@
 
 # Crusader Castles
 
+<html>
+    <body>
+        <iframe title="Number of Crusader Castles by Modern State" aria-label="Map" id="datawrapper-chart-Usn9M" src="https://datawrapper.dwcdn.net/Usn9M/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="367" data-external="1"></iframe>
+        <iframe title="Where the Crusader Castles Are in Israel" aria-label="Map" id="datawrapper-chart-9Qlcz" src="https://datawrapper.dwcdn.net/9Qlcz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="729" data-external="1"></iframe>
+        <script type="text/javascript">
+            !function() {
+                "use strict";
+                window.addEventListener("message", (function(a) {
+                    if (void 0 !== a.data["datawrapper-height"]) {
+                        var e = document.querySelectorAll("iframe");
+                        for (var t in a.data["datawrapper-height"])
+                            for (var r = 0; r < e.length; r++)
+                                if (e[r].contentWindow === a.source) {
+                                    var i = a.data["datawrapper-height"][t] + "px";
+                                    e[r].style.height = i
+                                }
+                    }
+                }))
+            } ();
+        </script>
+    </body>
+</html>
+
 ### Diversity & Typology
 
 A ditch surrounds an artificial earth mound that the primitive "motte and bailey" type of structure is on. Stone-building methods diversified castle designs in the East. No two castles are exactly alike. T. E. Lawrence referred to Crusader castles as "a series of exceptions to some undiscovered rule." Frankish castles in the East can be broadly categorized into three principal types:
@@ -24,28 +47,6 @@ Fortified towers are the most basic Crusader castle type. Frankish square keeps 
 ### Strategic Adaptation
 
 The crusaders adapted to warfare's changing dynamics. Spur castles' geographical strengths enhanced the castles' defensive capabilities. Each castle has its characteristics. Designs vary. Crusader castles served functions of symbolic power. I analyze castle defense strategies. They provide perspective and a more balanced understanding of any engineering marvels of these castles. I study the crusader castles' legacy and their impact on subsequent regional development.
-
-<html>
-    <body>
-        <iframe title="Crusader Castles" aria-label="Map" id="datawrapper-chart-9Qlcz" src="https://datawrapper.dwcdn.net/9Qlcz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="693" data-external="1"></iframe>
-        <script type="text/javascript">
-            !function() {
-                "use strict";
-                window.addEventListener("message", (function(a) {
-                    if (void 0 !== a.data["datawrapper-height"]) {
-                        var e = document.querySelectorAll("iframe");
-                        for (var t in a.data["datawrapper-height"])
-                            for (var r = 0; r < e.length; r++)
-                                if (e[r].contentWindow === a.source) {
-                                    var i = a.data["datawrapper-height"][t] + "px";
-                                    e[r].style.height = i
-                                }
-                    }
-                }))
-            } ();
-        </script>
-    </body>
-</html>
 
 ### Belvoir Castle
 
