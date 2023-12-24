@@ -25,6 +25,28 @@ Fortified towers are the most basic Crusader castle type. Frankish square keeps 
 
 The crusaders adapted to warfare's changing dynamics. Spur castles' geographical strengths enhanced the castles' defensive capabilities. Each castle has its characteristics. Designs vary. Crusader castles served functions of symbolic power. I analyze castle defense strategies. They provide perspective and a more balanced understanding of any engineering marvels of these castles. I study the crusader castles' legacy and their impact on subsequent regional development.
 
+<html>
+    <body>
+        <iframe title="Crusader Castles" aria-label="Map" id="datawrapper-chart-9Qlcz" src="https://datawrapper.dwcdn.net/9Qlcz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="693" data-external="1"></iframe>
+        <script type="text/javascript">
+            !function() {
+                "use strict";
+                window.addEventListener("message", (function(a) {
+                    if (void 0 !== a.data["datawrapper-height"]) {
+                        var e = document.querySelectorAll("iframe");
+                        for (var t in a.data["datawrapper-height"])
+                            for (var r = 0; r < e.length; r++)
+                                if (e[r].contentWindow === a.source) {
+                                    var i = a.data["datawrapper-height"][t] + "px";
+                                    e[r].style.height = i
+                                }
+                    }
+                }))
+            } ();
+        </script>
+    </body>
+</html>
+
 ### Belvoir Castle
 
 Belvoir Castle is situated on a hill of the Naphtali plateau, ~20 km south of the Sea of Galilee and ~500 meters above the Jordan Valley. It overlooks the Jordan River and faces the Gilead hills in the Kingdom of Jordan, a few miles south of Lake Tiberias.
