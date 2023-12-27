@@ -16,6 +16,10 @@ Descriptions detailed cost. Waqf documents' language influenced buildings' descr
 
 ### Social Influence
 
+![mamluk](https://myisraeliguide.com/wp-content/uploads/2013/06/img_20130613_001352.jpg)
+
+*Note the alternating dark and light stone in the ablaq style.*
+
 The literati controlled various services and maintained authority through mediation and arbitration but weren't social change agents. The social groups depended on the Mamluk military elite for their livelihood. They were employed to administer systems in the sultanate. These groups were excluded from political decision-making. They were under constant check with the threat of confiscation and arrest despite their importance. Mamluk patrons including sultans like al-Nāșir Muhammad and Qāytbaāy used architecture. They reinforced the expression of social positions. Mamluk sources treated architecture based on the authors' personal inclination, intellectual structures, and the readers' preferences. Mamluk patrons' wishes influenced authors in providing building projects' detailed records. ‘Izz al-Dīn Muhammad ibn ‘Alī Ibn Shaddād introduced a biographical innovation in Baybars I's annals, listing all the building projects systematically in a separate section. This innovation started a convention in Mamluk princely biographies of comprehensiveness in recording building projects. Other biographical accounts didn't replicate Ibn Shaddād's attention to space organization in Baybars' biography. This detailed recording of architectural projects became a convention in later chroniclers' accounts, although none reached the same level of detail as Ibn Shaddād.
 
 ### Evolution in Perspective in *masālik wa-al-mamālik* Books

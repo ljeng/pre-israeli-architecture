@@ -27,6 +27,18 @@
     </body>
 </html>
 
+Crusader castles are historical sites that attract tourists. Contemporary maps that show their locations in relation to modern cities and roads are very practical for visitors who are planning trips and need to navigate the current transportation networks. Using contemporary maps maintains consistency with other geographical information. Users can relate easily to the locations. They can understand the locations' modern-day settings. This enhances public education about historical sites. People associate these structures with their present-day locations and understand the historical events in a modern context.
+
+![overlay](overlay.png)
+
+*Crusader States map overlayed with map of the modern Middle East. Modern Israel is highlighted in red.*
+
+### Creation of the Crusader States During the First Crusade
+
+> The Crusader States were created after the First Crusade (1095-1102 CE) in order to keep hold of the territorial gains made by Christian armies in the Middle East. The four small states were the Kingdom of Jerusalem, the County of Edessa, the County of Tripoli, and the Principality of Antioch...Jerusalem was captured in July 1099 CE, and a Muslim army defeated was at the Battle of Ascalon in August of the same year.
+
+\- *Crusader States*, World History Encyclopedia
+
 ### Diversity & Typology
 
 A ditch surrounds an artificial earth mound that the primitive "motte and bailey" type of structure is on. Stone-building methods diversified castle designs in the East. No two castles are exactly alike. T. E. Lawrence referred to Crusader castles as "a series of exceptions to some undiscovered rule." Frankish castles in the East can be broadly categorized into three principal types:
@@ -37,6 +49,14 @@ A ditch surrounds an artificial earth mound that the primitive "motte and bailey
 ![keep](https://static.timesofisrael.com/www/uploads/2012/08/citadel-Tower-of-David-Photo-Shmuel-Bar-Am-1024x640.jpg)
 
 *Keep: a forfified tower within a fortress*
+
+![courtyard](https://nebula.wsimg.com/ce681d9f7a4a3d5546e1f9eb21abe7ba?AccessKeyId=BDCD2A10AE82DD67CC3E&disposition=0&alloworigin=1)
+
+*Frankish tower interior courtyard*
+
+![montfort](https://img.atlasobscura.com/J9DmBuIXU8pY_VxElyaw-7XXsuNa87XuthUYlX0QB0M/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDQ0/MDlmMS1hNmE3LTQ4/NzYtOTA0Yi03Njlm/NjI1NzhhMWE5MWE4/NDEwMzZlYmI1MzFh/NjBfTW9uZm9ydDEz/LmpwZw.jpg)
+
+*Montfort Fortress is a spur castle.*
 
 Fortified towers are the most basic Crusader castle type. Frankish square keeps mostly date to before the middle of the twelfth century. The keep evolved from the "motte and bailey" castle, dispensing with the mound and lacking outworks. Keeps served as places of refuge during times of attack and could also fulfill administrative functions. Pre-Crusader castle examples include Castrum Beroardi at Ashdod Yam, which continued the Roman castra model, and Château du Roi and Mirabel, which were enclosure castles with central keeps.
 
@@ -57,4 +77,10 @@ Belvoir Castle is situated on a hill of the Naphtali plateau, ~20 km south of th
 
 *Belvoir Castle stands on the Heights of Isaachar near the Sea of Galilee, also known as Lake Tiberias.*
 
-The castle is in the modern area of Israel. The original structure on the site was part of the feudal estate of a Frankish nobleman named Velos in Tiberias. The Knights Hospitallers acquired the site in 1168 due to its strategic importance. They constructed a formidable fortress that took ~5 years to complete. Belvoir served as an obstacle to Muslim forces attempting to invade the Crusader Kingdom from the east. It withstood an attack by Muslim forces in 1180. The Battle of Belvoir Castle took place in 1182 between King Baldwin IV of Jerusalem and Saladin. The Crusaders, facing collapse elsewhere, retained control only over Tyre, Safed, and Belvoir. Saladin's forces attempted to undermine Belvoir's defenses during a year-and-a-half-long siege. The fortress eventually surrendered, and its gates were pulled down to prevent its reuse by Crusaders. Belvoir was briefly ceded in 1240 to the Crusaders but returned to Muslim control due to financial constraints. Belvoir is an early example of the concentric castle plan. It was the first known concentric castle. The walls are made of large basalt ashlars. U-shaped iron joints hold them together. The main entrance through the outer walls is on the eastern side. The entrance to the Keep lies on the western edge, forcing attackers to face heavy fire. A dry moat surrounds the fortress. A drawbridge allowed access over the moat from the west. Saladin had extended his dominion over Muslim emirates in Syria. He retaliated for a violation of a truce by the Crusaders. Saladin's forces engaged in inconclusive skirmishes. The Crusaders successfully maintained their formation against the Ayyubid attacks. Saladin eventually broke off the battle. The Crusaders succeeded in strategically keeping their field army intact, though the region suffered from constant devastations. Belvoir Castle remains one of the best-preserved Crusader castles in Israel. Comprehensive excavations conducted in 1966 highlight the Crusaders' medieval military architecture.
+The castle is in the modern area of Israel. The original structure on the site was part of the feudal estate of a Frankish nobleman named Velos in Tiberias. The Knights Hospitallers acquired the site in 1168 due to its strategic importance. They constructed a formidable fortress that took ~5 years to complete. Belvoir served as an obstacle to Muslim forces attempting to invade the Crusader Kingdom from the east. It withstood an attack by Muslim forces in 1180. The Battle of Belvoir Castle took place in 1182 between King Baldwin IV of Jerusalem and Saladin. The Crusaders, facing collapse elsewhere, retained control only over Tyre, Safed, and Belvoir. Saladin's forces attempted to undermine Belvoir's defenses during a year-and-a-half-long siege. The fortress eventually surrendered, and its gates were pulled down to prevent its reuse by Crusaders. Belvoir was briefly ceded in 1240 to the Crusaders but returned to Muslim control due to financial constraints. Belvoir is an early example of the concentric castle plan. It was the first known concentric castle. The walls are made of large basalt ashlars.
+
+![staple](https://journals.openedition.org/medievalista/docannexe/image/6273/img-11-small580.jpg)
+
+*Details of the staples and sealing holes. Staple discovered during the excavations of Meir Ben-Dov.*
+
+U-shaped iron joints hold them together. The main entrance through the outer walls is on the eastern side. The entrance to the Keep lies on the western edge, forcing attackers to face heavy fire. A dry moat surrounds the fortress. A drawbridge allowed access over the moat from the west. Saladin had extended his dominion over Muslim emirates in Syria. He retaliated for a violation of a truce by the Crusaders. Saladin's forces engaged in inconclusive skirmishes. The Crusaders successfully maintained their formation against the Ayyubid attacks. Saladin eventually broke off the battle. The Crusaders succeeded in strategically keeping their field army intact, though the region suffered from constant devastations. Belvoir Castle remains one of the best-preserved Crusader castles in Israel. Comprehensive excavations conducted in 1966 highlight the Crusaders' medieval military architecture.
