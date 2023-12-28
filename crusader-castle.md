@@ -27,36 +27,32 @@
     </body>
 </html>
 
-Crusader castles are historical sites that attract tourists. Contemporary maps that show their locations in relation to modern cities and roads are very practical for visitors who are planning trips and need to navigate the current transportation networks. Using contemporary maps maintains consistency with other geographical information. Users can relate easily to the locations. They can understand the locations' modern-day settings. This enhances public education about historical sites. People associate these structures with their present-day locations and understand the historical events in a modern context.
-
-![overlay](overlay.png)
-
-*Crusader States map overlayed with map of the modern Middle East. Modern Israel is highlighted in red.*
-
-### Creation of the Crusader States During the First Crusade
-
-> The Crusader States were created after the First Crusade (1095-1102 CE) in order to keep hold of the territorial gains made by Christian armies in the Middle East. The four small states were the Kingdom of Jerusalem, the County of Edessa, the County of Tripoli, and the Principality of Antioch...Jerusalem was captured in July 1099 CE, and a Muslim army defeated was at the Battle of Ascalon in August of the same year.
-
-\- *Crusader States*, World History Encyclopedia
-
 ### Diversity & Typology
 
 A ditch surrounds an artificial earth mound that the primitive "motte and bailey" type of structure is on. Stone-building methods diversified castle designs in the East. No two castles are exactly alike. T. E. Lawrence referred to Crusader castles as "a series of exceptions to some undiscovered rule." Frankish castles in the East can be broadly categorized into three principal types:
-1. the fortified tower or keep
-1. the courtyard castle or castrum
-1. the spur castle
 
-![keep](https://static.timesofisrael.com/www/uploads/2012/08/citadel-Tower-of-David-Photo-Shmuel-Bar-Am-1024x640.jpg)
-
-*Keep: a forfified tower within a fortress*
-
-![courtyard](https://nebula.wsimg.com/ce681d9f7a4a3d5546e1f9eb21abe7ba?AccessKeyId=BDCD2A10AE82DD67CC3E&disposition=0&alloworigin=1)
-
-*Frankish tower interior courtyard*
-
-![montfort](https://img.atlasobscura.com/J9DmBuIXU8pY_VxElyaw-7XXsuNa87XuthUYlX0QB0M/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDQ0/MDlmMS1hNmE3LTQ4/NzYtOTA0Yi03Njlm/NjI1NzhhMWE5MWE4/NDEwMzZlYmI1MzFh/NjBfTW9uZm9ydDEz/LmpwZw.jpg)
-
-*Montfort Fortress is a spur castle.*
+<html>
+    <body>
+        <ol>
+            <li>
+                the fortified tower or keep
+                <br>
+                <img src="https://static.timesofisrael.com/www/uploads/2012/08/citadel-Tower-of-David-Photo-Shmuel-Bar-Am-1024x640.jpg">
+                <figcaption>Keep: a forfified tower within a fortress</figcaption>
+            </li>
+            <li>
+                the courtyard castle or castrum
+                <br>
+                <img src="https://nebula.wsimg.com/ce681d9f7a4a3d5546e1f9eb21abe7ba?AccessKeyId=BDCD2A10AE82DD67CC3E&disposition=0&alloworigin=1">
+            </li>
+            <li>
+                the spur castle
+                <br>
+                <img src="https://img.atlasobscura.com/J9DmBuIXU8pY_VxElyaw-7XXsuNa87XuthUYlX0QB0M/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDQ0/MDlmMS1hNmE3LTQ4/NzYtOTA0Yi03Njlm/NjI1NzhhMWE5MWE4/NDEwMzZlYmI1MzFh/NjBfTW9uZm9ydDEz/LmpwZw.jpg">
+            </li>
+        </ol>
+    </body>
+</html>
 
 Fortified towers are the most basic Crusader castle type. Frankish square keeps mostly date to before the middle of the twelfth century. The keep evolved from the "motte and bailey" castle, dispensing with the mound and lacking outworks. Keeps served as places of refuge during times of attack and could also fulfill administrative functions. Pre-Crusader castle examples include Castrum Beroardi at Ashdod Yam, which continued the Roman castra model, and Château du Roi and Mirabel, which were enclosure castles with central keeps.
 
@@ -70,8 +66,11 @@ The crusaders adapted to warfare's changing dynamics. Spur castles' geographical
 
 ### Belvoir Castle
 
-Belvoir Castle is situated on a hill of the Naphtali plateau, ~20 km south of the Sea of Galilee and ~500 meters above the Jordan Valley. It overlooks the Jordan River and faces the Gilead hills in the Kingdom of Jordan, a few miles south of Lake Tiberias.
+![floor plan](http://www.carneycastle.com/Belvoir/plan3.jpg)
 
+*Floor plan with key*
+
+Belvoir Castle is situated on a hill of the Naphtali plateau, ~20 km south of the Sea of Galilee and ~500 meters above the Jordan Valley. It overlooks the Jordan River and faces the Gilead hills in the Kingdom of Jordan, a few miles south of Lake Tiberias.
 
 ![belvoir castle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kokhav-Hayarden_BelVoir_V.JPG/2560px-Kokhav-Hayarden_BelVoir_V.JPG)
 
